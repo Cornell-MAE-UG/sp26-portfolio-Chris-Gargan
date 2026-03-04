@@ -5,15 +5,24 @@ description: Class Project
 technologies: N/A
 image: /assets/images/Nutcracker.jpg/
 ---
-Task: Design a nutcracker that can crack open a macademia nut using a simple lever cracker
-Given: 
+<h2> Nutcracker Design </h2>
+<p> <strong>Task:</strong> Design a nutcracker that can crack open a macademia nut using a simple lever cracker </p>
+<p> <strong> Given:</strong> 
 Average diamter of a nutcracker - 2cm
 Average grip - 45kg
 Load necessary to crack a macademia - 222.18kg
+</p>
+<p> <strong> Plan: </strong> 
+Examine FBD of a nutcracker
+Take the moment about the front point
+</p>
+Diagram of nutcracker 
+<img src="{{ '/assets/images/Nutcracker.jpg' | relative_url }}" alt="Nutcracker Diagram" width="800">
 
-Approach to Problem
-
-#Diagram of nutcracker 
-<img src="{{/assets/images/Nutcracker.jpg' | relative_url }}" alt= "Nutcracker Diagram" width="800">
 
 The nutracker will be 14.812cm long with the nut placed at 3cm. The arms will open 9.874cm at the end. This is a very large nutcracker and would be very difficult to use. 
+
+If a linear actuator was used instead, size of the nutcracker can be shrunk much farther down.
+
+
+<p> Using the linear actuator allows the arm to be much shorter, but it will still be somewhat wide. However, since it is still much smaller than the original design, it is a much more viable option. </p>
