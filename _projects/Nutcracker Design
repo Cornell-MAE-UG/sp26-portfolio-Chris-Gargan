@@ -1,3 +1,18 @@
-I have no idea what this is? 
+---
+layout: project
+title: MAE 2020 - 
+description: Class Project
+Technologies: N/A
+Image: /assets/images/Nutcracker.jpg
+---
+I am so lost
+#Objective: 
 
-what is this
+#Given:
+
+#Approach to Problem
+
+#Diagram of nutcracker 
+<img src="{{/assets/images/Nutcracker.jpg' | relative_url }}" alt= "Nutcracker Diagram" width="800">
+
+#Discussion on Usability 
