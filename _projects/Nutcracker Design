@@ -1,16 +1,17 @@
 ---
 layout: project
-title: MAE 2020 - 
+title: MAE 2020 - Statics
 description: Class Project
-Technologies: N/A
-Image: /assets/images/Nutcracker.jpg
+technologies: N/A
+image: /assets/images/Nutcracker.jpg
 ---
-I am so lost
-#Objective: 
+Task: Design a nutcracker that can crack open a macademia nut using a simple lever cracker
+Given: 
+Average diamter of a nutcracker - 2cm
+Average grip - 45kg
+Load necessary to crack a macademia - 222.18kg
 
-#Given:
-
-#Approach to Problem
+Approach to Problem
 
 #Diagram of nutcracker 
 <img src="{{/assets/images/Nutcracker.jpg' | relative_url }}" alt= "Nutcracker Diagram" width="800">
