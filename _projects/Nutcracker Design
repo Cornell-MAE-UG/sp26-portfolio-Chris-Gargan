@@ -3,7 +3,7 @@ layout: project
 title: MAE 2020 - Statics
 description: Class Project
 technologies: N/A
-image: /assets/images/Nutcracker.jpg
+image: /assets/images/Nutcracker.jpg/
 ---
 Task: Design a nutcracker that can crack open a macademia nut using a simple lever cracker
 Given: 
