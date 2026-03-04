@@ -19,7 +19,7 @@ Take the moment about the front point
 </p>
 
 <p><strong>Diagram of nutcracker </strong></p>
-<img src="{{ '/assets/images/Nutcracker.jpg' | relative_url }}" alt="Nutcracker Diagram" width="800">
+<img src="{{ '/assets/images/Nutcracker_FBD.jpg' | relative_url }}" alt="Nutcracker Diagram" width="800">
 
 
 <p> <strong> Calculations: </strong> \[
