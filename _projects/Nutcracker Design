@@ -8,19 +8,20 @@ image: /assets/images/Nutcracker.jpg/
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <h2> Nutcracker Design </h2>
 <p> <strong>Task:</strong> Design a nutcracker that can crack open a macademia nut using a simple lever cracker </p>
-<p> <strong> Given:</strong> 
-Average diamter of a nutcracker - 2cm
-Average grip - 45kg
-Load necessary to crack a macademia - 222.18kg
-</p>
+
 <p> <strong> Plan: </strong> 
-Examine FBD of a nutcracker
-Take the moment about the front point
+Examine FBD of a nutcracker then take the moment about the front point
 </p>
+
+<p> <strong> Given:</strong> 
+<ul>
+  <li>Nut diameter: 2 cm</li>
+  <li>Grip force: 45 kg</li>
+  <li>Required cracking force: 222.18 kg</li>
+</ul></p>
 
 <p><strong>Diagram of nutcracker </strong></p>
 <img src="{{ '/assets/images/Nutcracker_FBD.jpg' | relative_url }}" alt="Nutcracker Diagram" width="800">
-
 
 <p> <strong> Calculations: </strong> \[
 \sum \vec{M}_O = \vec{r}_1 \times \vec{F}_m - \vec{r}_2 \times \vec{F}_a
