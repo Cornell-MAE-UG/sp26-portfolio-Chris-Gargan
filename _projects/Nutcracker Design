@@ -73,18 +73,23 @@ R = 222.18-149.72= 72.46
 M=48.48x
 \]
 \[
-M= -100.18x+446
+M=-100.18x+446
 \]
 \[$$EI \frac{d^2y}{dx^2} = M(x)$$
 /]
 /[
 EIy=-16.7x^3+223x^2
 \]
-<p>To ensure that the vertical elastic deflection is below 2% of its length which is .21cm. 
-We will use carbon steel since it is a commonly used material in tools. Likewise the handle will
+<p>We will ensure that the vertical elastic deflection is below 2% of its length which is .21cm. 
+Additionally, we will use carbon steel since it is a commonly used material in tools. Likewise the handle will
 be cylinderical due to its ergonamical nature.  
 E=200GPA
 y=.21
 I=pi/4(r)^4</p>
+<p> Using the above equation, we can find the radius to be 
+r= () . Our final result for the nutcracker is pictured below: </p?
+
+<img src="{{ '/assets/images/Nutcracker_FBD.png' | relative_url }}" alt="Nutcracker Diagram" width="800">
+
 
  
