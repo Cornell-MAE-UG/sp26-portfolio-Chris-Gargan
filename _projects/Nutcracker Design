@@ -88,9 +88,8 @@ I=pi/4(r)^4</p>
 <p> Using the above equation, we can find the radius to be 
 r=0.0065m. Our final result for the nutcracker is pictured below: </p?
 
-<img src="{{ '/assets/images/Nutcracker_FBD.png' | relative_url }}" alt="Nutcracker Diagram" width="800">
+<img src="{{ '/assets/images/Nutcracker Final.png' | relative_url }}" alt="Nutcracker Diagram" width="800">
 
-update something
 
 
  
