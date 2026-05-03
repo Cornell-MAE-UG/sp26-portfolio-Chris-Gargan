@@ -71,11 +71,10 @@ R = 222.18-149.72= 72.46
 
 <p> Then, we can examine the arm to create two different shear and moment equations </p>
 \[
-V= 72.46 cos(48)  M=72.46 cos(48)x 
+V=72.46*cos(48)=48.48   
 \]
 \[
-V= -149.72 cos (48)   
-at x=2 
+V= -149.72*cos(48) = -100.18  
 \]
 <p>Then we can take the integral and find the maximum moment by examining critical points. 
 Therefore, our maximum bending moment is (). </p>
@@ -83,4 +82,5 @@ Therefore, our maximum bending moment is (). </p>
 <p>To ensure that the vertical elastic deflection is below 2% of its length which is .21cm. 
 We will use carbon steel since it is a commonly used material in tools. Likewise the handle will
 be cylinderical due to its ergonamical nature. </p>
+
  
