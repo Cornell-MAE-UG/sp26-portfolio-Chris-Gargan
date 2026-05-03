@@ -52,3 +52,6 @@ r_2=4.451
 </p>
 
 <p> Using the linear actuator allows the arm to be much shorter, but it will still be somewhat wide due to the actuator having a 5in maximum length. However, since it is still much smaller than the original design, it is a much more viable option. </p>
+
+<p> If we now assume that the handles are no longer rigid, we can examine its maximum deflection and 
+choose a material and cross section to make the nutcracker out of. </p>
