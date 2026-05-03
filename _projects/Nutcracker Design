@@ -54,16 +54,21 @@ r_2=4.451
 <p> Using the linear actuator allows the arm to be much shorter, but it will still be somewhat wide due to the actuator having a 6cm length. 
 By examining similar triangles, we can find our actual r_2 to be 9in. However, since it is still much smaller than the original design, it is a much more viable option. </p>
 
+<p><strong>Non-Rigid Handle</strong></p>
 <p> If we now assume that the handles are no longer rigid, we can examine its maximum deflection and 
 choose materials and cross section to make the nutcracker out of. Note that we will only take into account
 transverse components of the forces when we analyze the deflection.</p>
 
 <p> We can calculate the reaction force at the pivot point to be: </p>
-sum 
+<p>\[
+$$\sum F = F_m - R - F_a$$
+$$\sum F_y = 0 $$
+\]
 
 Then, 
 we can find the transverse components to be the force times the cos(theta) where
-theta is cos^-1(3/2) </p>
+theta is 
+$$ \cos^{-1}(3/2)$@</p>
 
 <p> We can examine the arm to create two different shear equations </p>
  equations
