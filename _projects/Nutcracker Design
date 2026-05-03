@@ -51,7 +51,23 @@ r_2=4.451
 \]
 </p>
 
-<p> Using the linear actuator allows the arm to be much shorter, but it will still be somewhat wide due to the actuator having a 5in maximum length. However, since it is still much smaller than the original design, it is a much more viable option. </p>
+<p> Using the linear actuator allows the arm to be much shorter, but it will still be somewhat wide due to the actuator having a 5in maximum length. 
+By examining similar triangles, we can find our actual r_2 be () 
+However, since it is still much smaller than the original design, it is a much more viable option. </p>
 
 <p> If we now assume that the handles are no longer rigid, we can examine its maximum deflection and 
-choose a material and cross section to make the nutcracker out of. </p>
+choose a material and cross section to make the nutcracker out of. Note that we will only take into account
+transverse components of the forces when we analyze the deflection.</p>
+
+<p> We can calculate the reaction force at the pivot point to be (#). Then, 
+we can find the transverse components to be the force times the cos(theta) where
+theta is cos^-1(3/2) </p>
+
+<p> We can examine the arm to create two different shear equations </p>
+ equations
+
+<p>Then we can take the integral and find the maximum moment by examining critical points. 
+Therefore, our maximum bending moment is (). </p>
+
+<p>To ensure that the vertical elastic deflection is below 2% of its length (9in) and mass-efficient
+we will make the cross-section in the shape of an I beam. </p>
