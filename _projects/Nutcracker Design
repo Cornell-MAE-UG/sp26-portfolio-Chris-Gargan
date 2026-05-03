@@ -84,10 +84,11 @@ EIy=-16.7x^3+223x^2
 Additionally, we will use carbon steel since it is a commonly used material in tools. Likewise the handle will
 be cylinderical due to its ergonamical nature.  
 E=200GPA
-y=.21
+y=.21cm
 I=pi/4(r)^4</p>
+
 <p> Using the above equation, we can find the radius to be 
-r= () . Our final result for the nutcracker is pictured below: </p?
+r=0.0065m. Our final result for the nutcracker is pictured below: </p?
 
 <img src="{{ '/assets/images/Nutcracker_FBD.png' | relative_url }}" alt="Nutcracker Diagram" width="800">
 
