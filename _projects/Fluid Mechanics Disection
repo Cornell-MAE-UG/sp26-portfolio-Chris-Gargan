@@ -1,2 +1,12 @@
+---
+layout: project
+title: MAE 2030 - Fluids
+description: Class Project
+technologies: N/A
+---
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<p>
 This is is the page for my fluid mechanics disection.
 We are making the strandbeest
+<p>
